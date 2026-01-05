@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-white rounded-lg shadow-sm border border-gray-200 p-6;
+  }
+  
+  .metric-card {
+    @apply card hover:shadow-md transition-shadow duration-200;
+  }
+  
+  .status-indicator {
+    @apply w-3 h-3 rounded-full;
+  }
+  
+  .status-connected {
+    @apply bg-success-500 animate-pulse-slow;
+  }
+  
+  .status-disconnected {
+    @apply bg-error-500;
+  }
+  
+  .status-connecting {
+    @apply bg-warning-500 animate-pulse;
+  }
+} 
