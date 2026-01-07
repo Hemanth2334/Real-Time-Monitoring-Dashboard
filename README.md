@@ -1,4 +1,4 @@
-# Real-time Dashboard with WebSocket
+# Real-time Dashboard 
 
 A modern MERN stack dashboard application that displays live system metrics and events using WebSocket connections. Built with React, Node.js, Express, Socket.io, and Tailwind CSS.
 
@@ -262,38 +262,8 @@ EXPOSE 3001
 CMD ["npm", "start"]
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- [Socket.io](https://socket.io/) for WebSocket functionality
-- [Tailwind CSS](https://tailwindcss.com/) for styling
-- [Zustand](https://github.com/pmndrs/zustand) for state management
-- [Vite](https://vitejs.dev/) for build tooling
-
-## 📞 Support
-
-For issues and questions, please open an issue on GitHub.
-
----
-
-⭐ **Star this repository if you found it helpful!** 
-
----
-
-**Built by Falak Thackar**
-
-I’m a full stack developer who builds clean, working products using React, Node.js, MongoDB, and React Native.  
-Open to remote/hybrid roles and freelance MVP builds.
-
-👉 [LinkedIn](https://linkedin.com/in/falakthackar) | [Email](mailto:falakthackar@gmail.com)
