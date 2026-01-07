@@ -1,6 +1,6 @@
 # Real-time Dashboard 
 
-A modern MERN stack dashboard application that displays live system metrics and events using WebSocket connections. Built with React, Node.js, Express, Socket.io, and Tailwind CSS.
+A modern MERN stack dashboard application that displays a live system metrics and events using WebSocket connections. Built with React, Node.js, Express, Socket.io, and Tailwind CSS.
 
 ![Dashboard Preview](https://img.shields.io/badge/Status-Live%20Demo-brightgreen)
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
